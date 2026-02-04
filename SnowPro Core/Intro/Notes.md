@@ -110,7 +110,3 @@ There's also the option to register for practice exams; which have the following
 **Activity Window**: 24 hours to complete exam upon purchase
 
 
-
-
-
-
