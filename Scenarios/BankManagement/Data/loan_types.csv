@@ -1,0 +1,9 @@
+loan_type_id,loan_type_name,min_term_months,max_term_months,base_apr_percent,currency,early_prepayment_fee_percent
+LT01,Personal,12,36,12.5,MXN,0.25
+LT02,Hipotecario,120,360,9.2,MXN,1.84
+LT03,Auto,24,72,10.8,MXN,0.16
+LT04,PYME,12,60,14.5,MXN,0.59
+LT05,Educativo,12,84,11.0,MXN,1.26
+LT06,Tarjeta de Crédito,1,1,39.9,MXN,1.77
+LT07,Nómina,6,48,18.0,MXN,0.72
+LT08,Verde/Energía,12,96,10.2,MXN,0.38
