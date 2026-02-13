@@ -1,6 +1,6 @@
 # Plan de estudio – 7 días SnowPro Core
 
-**Recomnedación General**
+**Recomendación General**
 * Duración: 2 a 3 horas por día.
 * Formato:
     1. Estudio teórico. (1 hora)
@@ -150,7 +150,7 @@ Razonamiento aplicado, no solo memorización.
 **Resultado esperado**
 Identificar los 3–5 puntos críticos que requieren reforzamiento.
 
-## Día 6 – Simulador + Revisión de errores
+## Día 7 – Simulador + Revisión de errores
 
 **Objetivos**
 

@@ -1,4 +1,4 @@
-# Distributed Architectures
+# Traditional Architectures
 
 ## Shared-Disk
 
