@@ -1,0 +1,12 @@
+branch_id,branch_name,address,city,state,postal_code,phone,opened_date
+BR001,Centro Histórico,Osa Mayor 124,Ciudad de México,CDMX,13278,55-4691-3810,2015-06-30
+BR002,Polanco,Av. Santa Fe 152,Naucalpan,Edomex,23434,5583197857,2011-12-14
+BR003,Santa Fe,Morones Prieto 442,Guadalajara,Jalisco,14165,5513999315,2012-02-07
+BR004,Condesa,Av. Santa Fe 248,Monterrey,Nuevo León,76237,5590801586,2010-08-06
+BR005,Roma Norte,Juárez 213,Puebla,Puebla,95181,5583140807,2019-05-30
+BR006,Coyoacán,Av. Santa Fe 469,Tijuana,Baja California,87236,5547338124,2010-02-23
+BR007,Satélite,Masaryk 724,Querétaro,Querétaro,65392,5555667651,2016-03-26
+BR008,Guadalajara Centro,Masaryk 230,León,Guanajuato,54118,5523718431,2012-01-30
+BR009,Monterrey Valle,Miguel Ángel de Quevedo 109,Mérida,Yucatán,57052,5556164955,2023-07-17
+BR010,Puebla Angelópolis,Amsterdam 836,Toluca,Edomex,15695,5571662963,2022-01-10
+BR011,Zentralia,Paseo Miguel de la Madrid 135 L-3,Colima,Colima,28018,55-5509-3012,2026-01-10

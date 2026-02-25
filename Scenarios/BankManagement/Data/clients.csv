@@ -1,0 +1,62 @@
+client_id,first_name,last_name,email,phone,date_of_birth,city,state,annual_income_mxn,risk_score,preferred_branch_id,customer_since
+CL00001,Diego,Vázquez Jiménez,diego.vázquez@mail.mx,5532151928,1960-08-09,León,Jalisco,52057,846,BR007,2020-05-11
+CL00002,Carlos,Díaz Domínguez,carlos.díaz@examplebank.mx,5571968116,1960-06-07,Guadalajara,CDMX,92246,566,BR007,2016-12-09
+CL00003,Miguel,Flores Rodríguez,miguel.flores@bankdemo.mx,5566581473,1998-10-17,Puebla,Edomex,52236,781,BR007,2019-08-31
+CL00004,Carlos,Torres Hernández,carlos.torres@mail.mx,5515403355,1989-05-25,Ciudad de México,Nuevo León,93215,504,BR002,2018-07-07
+CL00005,Carlos,Ruíz González,carlos.ruíz@mail.mx,5539254705,1979-05-27,León,Puebla,70070,677,BR002,2017-06-01
+CL00006,Fernanda,Ruíz Ruíz,fernanda.ruíz@bankdemo.mx,5524508768,1968-04-11,Toluca,CDMX,115387,619,BR003,2024-09-20
+CL00007,Héctor,Díaz Díaz,héctor.díaz@examplebank.mx,5550477742,1975-10-17,Toluca,Edomex,85607,342,BR004,2016-11-07
+CL00008,Daniela,Torres Vázquez,daniela.torres@examplebank.mx,5566379329,1991-03-31,León,Edomex,74317,743,BR006,2016-10-09
+CL00009,Daniela,Morales González,daniela.morales@mail.mx,5546249845,1997-01-26,Toluca,Yucatán,104180,795,BR009,2017-12-22
+CL00010,Alejandro,Vázquez Domínguez,alejandro.vázquez@examplebank.mx,5547437115,1982-01-29,León,Nuevo León,119635,775,BR004,2019-08-13
+CL00011,Héctor,Ruíz Díaz,héctor.ruíz@examplebank.mx,5575437844,1988-03-07,Monterrey,Baja California,72789,564,BR006,2016-04-27
+CL00012,Ricardo,Ramírez Ruíz,ricardo.ramírez@examplebank.mx,5521490777,1982-10-14,Monterrey,Querétaro,9330,800,BR009,2022-03-26
+CL00013,Lucía,Sánchez Jiménez,lucía.sánchez@examplebank.mx,5549491631,2002-01-13,Monterrey,Querétaro,111931,549,BR001,2021-01-09
+CL00014,Valeria,Domínguez Gómez,valeria.domínguez@bankdemo.mx,5583871890,2000-06-16,Tijuana,Baja California,77588,764,BR006,2022-03-17
+CL00015,Diego,Cruz Ramírez,diego.cruz@bankdemo.mx,5526046365,1978-09-07,Mérida,Jalisco,102540,496,BR004,2017-05-09
+CL00016,Luis,Jiménez Ramírez,luis.jiménez@bankdemo.mx,5540532273,1983-05-23,Tijuana,Jalisco,117134,609,BR004,2017-02-15
+CL00017,Carlos,Torres González,carlos.torres@bankdemo.mx,5526948946,1982-08-11,León,Edomex,15146,312,BR009,2016-07-05
+CL00018,Héctor,Cruz Jiménez,héctor.cruz@examplebank.mx,5543887075,2000-12-12,León,Edomex,52657,366,BR003,2020-12-09
+CL00019,Miguel,Jiménez Martínez,miguel.jiménez@bankdemo.mx,5521432787,1962-10-23,Monterrey,Edomex,27555,726,BR010,2017-09-13
+CL00020,Diana,Ruíz Ruíz,diana.ruíz@bankdemo.mx,5569421007,1978-04-01,Puebla,Edomex,76494,739,BR007,2024-09-12
+CL00021,Valeria,Domínguez Ruíz,valeria.domínguez@examplebank.mx,5593955206,1963-05-28,Monterrey,Puebla,105004,383,BR002,2022-11-02
+CL00022,Fernanda,Sánchez Pérez,fernanda.sánchez@bankdemo.mx,5589699989,1964-09-25,León,Puebla,8350,333,BR007,2017-10-03
+CL00023,Sofía,Cruz Cruz,sofía.cruz@bankdemo.mx,5593893865,1998-09-25,Toluca,Nuevo León,98096,735,BR004,2016-10-18
+CL00024,Ana,Torres Sánchez,ana.torres@examplebank.mx,5518004482,1971-05-15,Guadalajara,Puebla,116348,595,BR003,2018-12-24
+CL00025,Alejandro,López Morales,alejandro.lópez@mail.mx,5582475098,1985-04-13,León,Guanajuato,60757,382,BR005,2023-11-06
+CL00026,Diana,Hernández Vázquez,diana.hernández@examplebank.mx,5540725714,1986-12-01,Toluca,Edomex,40816,321,BR001,2022-10-08
+CL00027,Diego,Domínguez Hernández,diego.domínguez@bankdemo.mx,5534359060,1973-09-19,Toluca,Querétaro,76021,803,BR008,2021-04-11
+CL00028,Juan,Jiménez Gómez,juan.jiménez@examplebank.mx,5554265498,1994-08-20,Querétaro,Guanajuato,50081,595,BR002,2019-09-27
+CL00029,Miguel,Torres Hernández,miguel.torres@bankdemo.mx,5525558733,1998-10-21,Querétaro,Yucatán,49224,301,BR005,2016-12-26
+CL00030,Lucía,Morales Vázquez,lucía.morales@mail.mx,5576906611,1962-11-12,León,CDMX,75952,508,BR006,2018-02-07
+CL00031,Diego,Torres González,diego.torres@examplebank.mx,5513874790,1983-11-04,Toluca,Nuevo León,99521,462,BR008,2020-11-29
+CL00032,Valeria,Torres García,valeria.torres@bankdemo.mx,5525766039,1994-08-09,Guadalajara,Guanajuato,37451,598,BR002,2017-01-16
+CL00033,Eduardo,Ramírez Vázquez,eduardo.ramírez@mail.mx,5529413516,2001-04-15,Querétaro,Nuevo León,39946,820,BR008,2021-04-18
+CL00034,Jorge,Martínez Ramírez,jorge.martínez@bankdemo.mx,5510344303,1995-03-24,Puebla,Puebla,111247,801,BR009,2019-10-24
+CL00035,Jorge,Morales Torres,jorge.morales@mail.mx,5560628276,2001-06-14,León,Baja California,51573,493,BR009,2019-11-14
+CL00036,Sofía,Domínguez Díaz,sofía.domínguez@bankdemo.mx,5573481797,1978-12-15,Querétaro,Querétaro,61841,455,BR001,2024-09-11
+CL00037,Paola,Hernández González,paola.hernández@examplebank.mx,5580591959,1987-10-14,León,CDMX,118761,447,BR008,2017-02-15
+CL00038,Gabriela,González Martínez,gabriela.gonzález@mail.mx,5563349308,2000-02-14,Naucalpan,Baja California,42737,846,BR006,2024-10-06
+CL00039,Miguel,Flores Jiménez,miguel.flores@mail.mx,5548571356,1961-03-22,Monterrey,Edomex,16968,744,BR004,2022-12-04
+CL00040,Ana,López Morales,ana.lópez@examplebank.mx,5553536830,1972-12-04,Ciudad de México,Puebla,47251,667,BR001,2023-10-13
+CL00041,Daniela,Vázquez González,daniela.vázquez@mail.mx,5534166826,1979-11-28,Guadalajara,Jalisco,62008,380,BR010,2021-12-15
+CL00042,Diana,Díaz Ruíz,diana.díaz@examplebank.mx,5571894493,1979-08-10,Puebla,Guanajuato,84435,561,BR003,2021-07-31
+CL00043,Carlos,Morales Cruz,carlos.morales@mail.mx,5550151803,1972-03-04,Querétaro,Puebla,65898,767,BR006,2016-10-29
+CL00044,Valeria,Rodríguez Díaz,valeria.rodríguez@mail.mx,5558178682,2001-05-08,Toluca,Puebla,39091,602,BR007,2017-03-12
+CL00045,Carlos,Díaz Ramírez,carlos.díaz@mail.mx,5576669607,1958-09-23,Puebla,Nuevo León,97889,660,BR001,2022-05-07
+CL00046,Sofía,Rodríguez Ruíz,sofía.rodríguez@mail.mx,5523041121,1980-06-26,Ciudad de México,Puebla,107035,751,BR003,2023-08-08
+CL00047,María,Domínguez Gómez,maría.domínguez@mail.mx,5565767881,1969-10-16,Guadalajara,Nuevo León,46680,435,BR006,2017-01-04
+CL00048,Lucía,Gómez Reyes,lucía.gómez@bankdemo.mx,5555461591,1982-06-14,Naucalpan,Guanajuato,41681,377,BR008,2017-11-04
+CL00049,Jorge,Sánchez Díaz,jorge.sánchez@examplebank.mx,5545495029,1990-10-25,Mérida,Edomex,111636,765,BR007,2017-01-04
+CL00050,Daniela,Ramírez Domínguez,daniela.ramírez@mail.mx,5541383044,1992-03-08,León,CDMX,56689,635,BR002,2023-02-28
+CL00051,Diana,Sánchez Martínez,diana.sánchez@examplebank.mx,5528760553,1999-08-27,Ciudad de México,CDMX,47608,611,BR007,2023-11-11
+CL00052,Paola,López López,paola.lópez@bankdemo.mx,5559796322,1979-01-24,Mérida,Querétaro,25781,458,BR007,2022-01-10
+CL00053,Gabriela,López Jiménez,gabriela.lópez@examplebank.mx,5569509870,1994-08-13,León,Nuevo León,12288,671,BR006,2019-02-19
+CL00054,Ana,Gómez Torres,ana.gómez@examplebank.mx,5526395999,1990-03-07,León,Edomex,60184,517,BR005,2016-09-05
+CL00055,Diana,García Hernández,diana.garcía@examplebank.mx,5519208698,1987-12-03,Mérida,Nuevo León,24505,521,BR010,2018-09-24
+CL00056,Sofía,Flores González,sofía.flores@mail.mx,5543642236,1958-04-03,Guadalajara,Edomex,26964,326,BR003,2019-02-09
+CL00057,Jorge,García Gómez,jorge.garcía@examplebank.mx,5545617024,1979-05-07,Ciudad de México,Jalisco,50437,731,BR001,2022-08-08
+CL00058,Eduardo,López Martínez,eduardo.lópez@mail.mx,5589680504,2000-09-22,Naucalpan,Guanajuato,109976,815,BR006,2021-01-10
+CL00059,Sofía,Ruíz Hernández,sofía.ruíz@examplebank.mx,5574287863,1985-01-22,Querétaro,Querétaro,92323,410,BR001,2021-02-19
+CL00060,Paola,Morales Martínez,paola.morales@examplebank.mx,5526937148,1965-04-01,Puebla,Edomex,87730,632,BR003,2019-08-12
+

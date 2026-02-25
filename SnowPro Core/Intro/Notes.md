@@ -1,6 +1,3 @@
-# Snowflake
-This repo contains the necessary documentation and quick notes for the Snowflake documentation.
-
 # SnowPro Core
 
  As of today 28/01/2026, there are 2 Snowflake SnowPro Core certifications, both of them available in the [official Snowflake Certifications](https://www.snowflake.com/certifications) site.
@@ -111,10 +108,5 @@ There's also the option to register for practice exams; which have the following
 **India Registration fee**: $40 USD <br>
 **Delivery options**: Unproctored <br>
 **Activity Window**: 24 hours to complete exam upon purchase
-
-
-
-
-
 
 

@@ -1,0 +1,46 @@
+employee_id,first_name,last_name,email,phone,role,branch_id,hire_date,monthly_salary_mxn
+EMP0001,María,Sánchez Cruz,maría.sánchez@bankdemo.mx,5557683626,Back Office,BR001,2017-08-11,16664
+EMP0002,Luis,Ramírez Martínez,luis.ramírez@bankdemo.mx,5595899313,Asesor/a de Créditos,BR001,2016-12-01,20010
+EMP0003,Lucía,Sánchez Flores,lucía.sánchez@bankdemo.mx,5518883684,Back Office,BR001,2023-09-14,20572
+EMP0004,Héctor,Flores Rodríguez,héctor.flores@mail.mx,5585345555,Asesor/a de Créditos,BR002,2019-06-09,18340
+EMP0005,Lucía,Ramírez Domínguez,lucía.ramírez@examplebank.mx,5516323852,Ejecutivo/a de Cuenta,BR002,2021-07-18,20930
+EMP0006,Ana,González Pérez,ana.gonzález@mail.mx,5543744231,Seguridad,BR002,2019-09-26,12881
+EMP0007,Lucía,García López,lucía.garcía@bankdemo.mx,5531227574,Gerente,BR002,2021-01-08,49146
+EMP0008,Carlos,Ramírez Reyes,carlos.ramírez@examplebank.mx,5530513739,Seguridad,BR003,2020-09-10,12158
+EMP0009,Daniela,Pérez Torres,daniela.pérez@bankdemo.mx,5551273847,Back Office,BR003,2020-12-12,15832
+EMP0010,Sofía,Hernández Sánchez,sofía.hernández@examplebank.mx,5527232410,Back Office,BR003,2015-11-19,22727
+EMP0011,Paola,Torres Pérez,paola.torres@bankdemo.mx,5597225156,Ejecutivo/a de Cuenta,BR003,2021-10-20,18470
+EMP0012,Daniela,Morales Reyes,daniela.morales@examplebank.mx,5588979095,Ejecutivo/a de Cuenta,BR003,2017-10-12,16049
+EMP0013,Sofía,García Martínez,sofía.garcía@examplebank.mx,5547376585,Gerente,BR003,2015-08-30,48827
+EMP0014,Luis,Torres González,luis.torres@examplebank.mx,5522660194,Gerente,BR004,2021-05-27,63710
+EMP0015,Ana,Vázquez Gómez,ana.vázquez@bankdemo.mx,5555540424,Ejecutivo/a de Cuenta,BR004,2020-03-27,15887
+EMP0016,Ana,Sánchez Rodríguez,ana.sánchez@examplebank.mx,5569476001,Cajero/a,BR004,2020-01-12,10148
+EMP0017,Lucía,López Hernández,lucía.lópez@bankdemo.mx,5574606833,Asesor/a de Créditos,BR004,2021-01-23,28346
+EMP0018,Luis,Díaz Hernández,luis.díaz@bankdemo.mx,5584593961,Cajero/a,BR004,2015-01-09,12198
+EMP0019,Paola,González Rodríguez,paola.gonzález@examplebank.mx,5588406989,Ejecutivo/a de Cuenta,BR004,2015-08-28,27054
+EMP0020,Eduardo,Reyes Pérez,eduardo.reyes@bankdemo.mx,5526090908,Cajero/a,BR005,2020-09-11,9656
+EMP0021,Héctor,Sánchez Domínguez,héctor.sánchez@bankdemo.mx,5544999379,Asesor/a de Créditos,BR005,2021-12-11,26770
+EMP0022,Luis,Flores Sánchez,luis.flores@examplebank.mx,5571510041,Ejecutivo/a de Cuenta,BR005,2016-06-20,25575
+EMP0023,Diana,Domínguez López,diana.domínguez@bankdemo.mx,5548250360,Cajero/a,BR005,2017-05-23,13144
+EMP0024,Fernanda,Morales Torres,fernanda.morales@mail.mx,5523903144,Gerente,BR005,2021-11-10,59884
+EMP0025,Jorge,Ramírez López,jorge.ramírez@mail.mx,5556020613,Back Office,BR005,2023-04-29,17450
+EMP0026,Diego,Reyes Jiménez,diego.reyes@bankdemo.mx,5527558317,Ejecutivo/a de Cuenta,BR006,2015-07-28,25392
+EMP0027,Diego,Pérez Morales,diego.pérez@examplebank.mx,5559555330,Asesor/a de Créditos,BR006,2019-10-18,17832
+EMP0028,Héctor,Torres González,héctor.torres@mail.mx,5543491314,Ejecutivo/a de Cuenta,BR006,2015-06-21,20974
+EMP0029,Ana,Gómez Torres,ana.gómez@bankdemo.mx,5513326769,Back Office,BR006,2019-07-23,16900
+EMP0030,Ricardo,Vázquez Sánchez,ricardo.vázquez@examplebank.mx,5571780854,Ejecutivo/a de Cuenta,BR007,2023-10-31,16771
+EMP0031,Daniela,Cruz Sánchez,daniela.cruz@bankdemo.mx,5596098221,Cajero/a,BR007,2022-05-27,10582
+EMP0032,Eduardo,Díaz Torres,eduardo.díaz@examplebank.mx,5590070438,Ejecutivo/a de Cuenta,BR007,2015-04-24,19279
+EMP0033,Gabriela,Gómez Flores,gabriela.gómez@mail.mx,5568526649,Ejecutivo/a de Cuenta,BR007,2020-09-25,21311
+EMP0034,Eduardo,Torres Rodríguez,eduardo.torres@mail.mx,5551511484,Ejecutivo/a de Cuenta,BR008,2015-10-14,20409
+EMP0035,Gabriela,Flores Díaz,gabriela.flores@mail.mx,5586384014,Gerente,BR008,2021-03-20,59788
+EMP0036,Valeria,Díaz Torres,valeria.díaz@mail.mx,5553251559,Back Office,BR008,2018-05-29,23939
+EMP0037,Alejandro,Morales Rodríguez,alejandro.morales@examplebank.mx,5541523529,Asesor/a de Créditos,BR009,2023-11-26,17389
+EMP0038,Valeria,Sánchez Rodríguez,valeria.sánchez@bankdemo.mx,5594525678,Cajero/a,BR009,2015-07-09,11005
+EMP0039,Héctor,Rodríguez Díaz,héctor.rodríguez@examplebank.mx,5533607110,Ejecutivo/a de Cuenta,BR009,2017-09-26,25748
+EMP0040,Eduardo,Morales Hernández,eduardo.morales@mail.mx,5552587010,Asesor/a de Créditos,BR009,2016-05-12,29130
+EMP0041,Alejandro,Ruíz Reyes,alejandro.ruíz@examplebank.mx,5595585469,Ejecutivo/a de Cuenta,BR009,2021-02-22,17607
+EMP0042,Diego,Reyes Jiménez,diego.reyes@bankdemo.mx,5552910691,Asesor/a de Créditos,BR009,2018-01-29,27690
+EMP0043,Jorge,González Sánchez,jorge.gonzález@mail.mx,5572535301,Ejecutivo/a de Cuenta,BR010,2016-09-17,18505
+EMP0044,Gabriela,Hernández Rodríguez,gabriela.hernández@bankdemo.mx,5510791358,Seguridad,BR010,2019-05-15,12716
+EMP0045,Daniela,Cruz Díaz,daniela.cruz@bankdemo.mx,5539450273,Back Office,BR010,2019-09-13,17613
