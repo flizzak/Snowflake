@@ -1,3 +1,5 @@
+---> Modify the time session for the account. Recommended
+alter account set timezone = 'America/Mexico_City';
 
 ---> Create a Virtual Warehouse using default values.
 CREATE WAREHOUSE WH_Default;
@@ -6,10 +8,10 @@ CREATE WAREHOUSE WH_Default;
 CREATE WAREHOUSE WH_Edwin MAX_CLUSTER_COUNT = 3;
 
 ---> Create a Virtual Warehouse using provide a high-performance ML version
-CREATE WAREHOUSE WH_Custom
+CREATE OR REPLACE WAREHOUSE WH_Custom
 with 
     COMMENT = 'Custom warehouse with snowpark-optimized'
-    WAREHOUSE_SIZE = 'MEDIUM'
+    WAREHOUSE_SIZE = 'XSMALL'
     MIN_CLUSTER_COUNT = 1
     MAX_CLUSTER_COUNT = 3
     WAREHOUSE_TYPE = 'SNOWPARK-OPTIMIZED'

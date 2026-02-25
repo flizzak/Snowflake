@@ -53,4 +53,18 @@ CALL DELETE_OLD();
 SELECT MIN(ORDER_TS) FROM TASTY_BYTES_CLONE.RAW_POS.ORDER_HEADER;
 
 ---> it did! We deleted everything from before the cutoff timestamp
-SELECT $cutoff_ts;
+SELECT $cutoff_ts;https://login.microsoftonline.com/5b973f99-77df-4beb-b27d-aa0c70b8482c/saml2?client-request-id=15cd9274-7a40-4589-b5ef-706bc1313a82&sso_nonce=AwABEgEAAAADAOz_BQD0_0V2b1N0c0FydGlmYWN0cwUAAAAAAGSZYSJoKrcVTv6Eqq62QHaEhOhM4Q95hho_JOw6O315In0wOsx8mzVvhRE4BfkGivOLuNOTQh0F0_FdRO1o2mAgAA&mscrid=15cd9274-7a40-4589-b5ef-706bc1313a82
+
+
+
+select 
+    data:Department as department,
+    sum(o.value:Sales) as sales
+    -- d. as sales
+from json_test t
+ ,lateral flatten(input => data:Zone) z
+ ,lateral flatten(input => z.value:Division) div
+ ,lateral flatten(input => div.value:Orders) o
+ group by 1;
+
+ 
